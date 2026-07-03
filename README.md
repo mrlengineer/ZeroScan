@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-00F0FF?style=flat-square&labelColor=0C0C18" alt="Status" />
-  <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square&labelColor=0C0C18" alt="License" />
-  <img src="https://img.shields.io/badge/python-3.12+-39FF14?style=flat-square&labelColor=0C0C18" alt="Python" />
-  <img src="https://img.shields.io/badge/react-18-FF2DAA?style=flat-square&labelColor=0C0C18" alt="React" />
-  <img src="https://img.shields.io/badge/build-passing-00F0FF?style=flat-square&labelColor=0C0C18" alt="Build" />
+
+  <img src="https://img.shields.io/badge/status-active-00F0FF?style=flat-square&labelColor=0C0C18" />
+  <img src="https://img.shields.io/badge/license-MIT-7C3AED?style=flat-square&labelColor=0C0C18" />
+  <img src="https://img.shields.io/badge/python-3.12+-39FF14?style=flat-square&labelColor=0C0C18" />
+  <img src="https://img.shields.io/badge/react-18-FF2DAA?style=flat-square&labelColor=0C0C18" />
+  <img src="https://img.shields.io/badge/build-passing-00F0F0?style=flat-square&labelColor=0C0C18" />
+
 </p>
 
 <br/>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0C0C18,50:00F0FF,100:7C3AED&text=ZeroScan&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=Web%20Security%20Reconnaissance%20Tool&descAlignY=68&descColor=E5E7EB"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0C0C18,50:0B1220,100:0C0C18&text=ZeroScan&fontColor=00F0F0&fontSize=64&fontAlignY=45&desc=WEB%20SECURITY%20RECON%20ENGINE&descAlignY=70&descColor=7C3AED" width="100%"/>
 </p>
 
 <p align="center">

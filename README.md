@@ -311,35 +311,18 @@ This tool does **not** exploit vulnerabilities. It identifies **potential** secu
 
 <br/>
 
+## 👨‍💻 Credits
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 1px solid rgba(0, 240, 255, 0.15); border-radius: 12px; padding: 20px 40px; background: linear-gradient(145deg, rgba(0,240,255,0.04), rgba(124,58,237,0.04)); backdrop-filter: blur(12px);">
-        <table>
-          <tr>
-            <td valign="middle">
-              <img src="Images/designedbyanyieofficial.com.png" alt="Designed by Anyie Official" width="100"/>
-            </td>
-            <td valign="middle" style="padding-left: 24px; border-left: 1px solid rgba(255, 255, 255, 0.06);">
-              <br/>
-              <strong style="font-size: 22px; font-family: 'Space Grotesk', sans-serif; background: linear-gradient(135deg, #00F0FF 0%, #7C3AED 50%, #FF2DAA 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-                Made By Mr L
-              </strong>
-              <br/>
-              <span style="font-size: 12px; color: #8888A8; font-family: 'JetBrains Mono', monospace;">
-                ── Full-Stack Security Engineer ──
-              </span>
-              <br/><br/>
-              <span style="font-size: 14px; color: #F0F0F5;">
-                UI/UX  ·  Frontend  ·  Backend  ·  Infrastructure
-              </span>
-              <br/>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <img src="Images/designedbyanyieofficial.com.png" width="120" alt="Designed by Anyie Official"/>
+</p>
+
+<h3 align="center">Made by Mr L</h3>
+
+<p align="center"><b>Full-Stack Security Engineer</b></p>
+
+<p align="center">
+UI/UX • Frontend • Backend • Infrastructure
 </p>
 
 <p align="center">

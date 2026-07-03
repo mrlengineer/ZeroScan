@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0C0C18,50:0B1220,100:0C0C18&text=ZeroScan&fontColor=00F0F0&fontSize=64&fontAlignY=45&desc=WEB%20SECURITY%20RECON%20ENGINE&descAlignY=70&descColor=7C3AED" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ZERO%20SCAN&section=header&textBg=false&desc=WEB%20SECURITY%20RECON%20ENGINE&reversal=true"/>
 </p>
 
 <p align="center">
